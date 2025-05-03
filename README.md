@@ -1,5 +1,5 @@
-<h1 align="center">Hello world! I'm Liya</h1>
-<h3 align="center">A passionate Full-Stack Web Developer focused on React, TypeScript & Next.js</h3>
+<h1 align="center">Hello world! </h1>
+<h3 align="center"> I am Liya, a passionate Full-Stack Web Developer living in the Netherlands</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.imgur.com/afSGlLu.png">
 
@@ -7,51 +7,58 @@
   <img src="https://komarev.com/ghpvc/?username=liya-oz&label=Profile%20views&color=0e75b6&style=flat" alt="liya-oz" /> 
 </p>
 
-- I’m currently working on an ambitious team project with **TypeScript**, **Next.js**, and **Supabase**.  
-- My latest projects include **FollowMe App** (a real-time social platform) and **KruglaShafa** (a handmade furniture e-commerce app).  
-- From stack to team, I stay agile, adaptable, and in sync.
-- Ask me about **React**, **JavaScript (ES6+)**, **Node.js**, **CSS/SCSS**, and **REST APIs**.  
-- View my [GitHub](https://github.com/liya-oz) and [LinkedIn](https://www.linkedin.com/in/yuliia-ozkan-5580b2262/) for my CV and work.  
-- Fun fact: **I speak 6 languages and recently started jogging!**
+- Right now I’m working on an ambitious team project using **TypeScript**, **Next.js**, and **Supabase**.  
+- My latest projects include **FollowMe App** — a real-time social platform for creating events — and **KruglaShafa**, an e-commerce app for handcrafted furniture.  
+- From stack to team, I stay agile, adaptable, and in sync. 
+- Ask me anything about **React**, **JavaScript (ES6+)**, **Node.js**, **CSS/SCSS**, or building apps with **REST APIs**.  
+- Fun fact: I speak **six languages**, enjoy cross-cultural work, and recently started jogging.
 
 ---
 
-### 🌐 Connect with me:
+### Languages and Tools:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+### Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yuliia-ozkan-5580b2262/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/liya-oz" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/yuliia-ozkan-5580b2262/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.IO" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</p>
-
-
+<details>
+  <summary><h3>GitHub Statistic</h3></summary>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liya-oz&show_icons=true&locale=en&layout=compact" alt="liya-oz" /></p>
+  
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liya-oz&show_icons=true&locale=en&layout=compact" alt="liya-oz" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=liya-oz&" alt="liya-oz" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=liya-oz&show_icons=true&locale=en" alt="liya-oz" /></p>
+</details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liya-oz&show_icons=true&locale=en" alt="liya-oz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liya-oz&" alt="liya-oz" /></p>
