@@ -13,9 +13,6 @@
 - Ask me anything about **React**, **JavaScript (ES6+)**, **Node.js**, **CSS/SCSS**, or building apps with **REST APIs**.  
 - Fun fact: I speak **seven languages**, enjoy cross-cultural work, and recently started jogging.
 
-
-<p align="center"> 🇬🇧 | 🇳🇱 | 🇹🇷 | 🇸🇦 | 🇮🇷 | 🇺🇦 </p>
-
 ---
 
 ### Languages and Tools:
