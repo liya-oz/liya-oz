@@ -10,7 +10,7 @@
 - Right now I’m working on an ambitious team project using **TypeScript**, **Next.js**, and **Supabase**.  
 - My latest projects include **FollowMe App** — a real-time social platform for creating events — and **KruglaShafa**, an e-commerce app for handcrafted furniture.  
 - From stack to team, I stay agile, adaptable, and in sync. 
-- Ask me anything about **React**, **JavaScript (ES6+)**, **Node.js**, **CSS/SCSS**, or building apps with **REST APIs**.  
+- Ask me anything about **React**, **JavaScript**, **Node.js**, **CSS**, or building apps with **REST APIs**.  
 - Fun fact: I speak **seven languages**, enjoy cross-cultural work, and recently started jogging.
 
 ---
