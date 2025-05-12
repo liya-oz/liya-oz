@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=liya-oz&label=Profile%20views&color=0e75b6&style=flat" alt="liya-oz" /> 
 </p>
 
-- Right now I’m working on an ambitious team project using **TypeScript**, **Next.js**, and **Supabase**.  
+- Right now I’m working on an ambitious team project using **TypeScript**, **Next.js** and **Supabase**.  
 - My latest projects include **FollowMe App** — a realtime social platform for creating events — and **KruglaShafa**, an e-commerce app for handcrafted furniture.  
 - From stack to team, I stay agile, adaptable, and in sync. 
 - Ask me anything about **React**, **JavaScript**, **Node.js**, **CSS**, or building apps with **REST APIs**.  
