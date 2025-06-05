@@ -1,5 +1,5 @@
 <h1 align="center">Hello world! </h1>
-<h3 align="center"> I am Liya, a passionate Full-Stack Web Developer living in the Netherlands</h3>
+<h3 align="center"> I am Liya, a passionate Full-Stack Web Developer living in the Netherlands.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.imgur.com/afSGlLu.png">
 
