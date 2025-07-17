@@ -1,19 +1,4 @@
 <h1 align="center">Hello world! </h1>
-<h3 align="center"> I am Liya, a passionate Full-Stack Web Developer living in the Netherlands.</h3>
-
-<img align="right" alt="coding" width="400" src="https://i.imgur.com/afSGlLu.png">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=liya-oz&label=Profile%20views&color=0e75b6&style=flat" alt="liya-oz" /> 
-</p>
-
-- Right now I’m working on an ambitious team project using **TypeScript**, **Next.js** and **Supabase**.  
-- My latest projects include **FollowMe App** — a realtime social platform for creating events — and **KruglaShafa**, an e-commerce app for handcrafted furniture.  
-- From stack to team, I stay agile, adaptable, and in sync. 
-- Ask me anything about **React**, **JavaScript**, **Node.js**, **CSS** or building apps with **REST APIs**.  
-- Fun fact: I speak **seven languages**, enjoy cross-cultural work, and go jogging.
-
----
 
 ### Languages and Tools:
 
